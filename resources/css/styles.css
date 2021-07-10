@@ -1,0 +1,14 @@
+body {
+    background: url("../background/bg-1.png") repeat;
+    overflow: hidden;
+}
+
+header {
+    background: linear-gradient(#02273F, #02273fd3, #02273f70);
+    background-size: cover;
+    color: #fff;
+}
+
+input {
+    margin: 3vh;
+}
